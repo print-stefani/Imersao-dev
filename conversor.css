@@ -1,0 +1,76 @@
+body {
+  font-family: "Comic Sans MS", monospace;
+  min-height: 500px;
+  background-color: #1c1c1c;
+  background-size: 100vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 30px;
+  height: 100vh;
+}
+
+.page-title {
+  font-family: "Helvetica", monospace;
+  color: #ffffff;
+  font-size: 35px;
+  margin: 0 0 20px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.eua {
+  width: 200px;
+  margin: 12px;
+  padding: 8px;
+}
+
+.europa {
+  width: 200px;
+  margin: 12px;
+  padding: 8px;
+}
+
+.argentina {
+  width: 200px;
+  margin: 12px;
+  padding: 8px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+h3 {
+  font-family: "Helvetica", monospace;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+p {
+  color: #ffffff;
+  font-size: 10px;
+}
